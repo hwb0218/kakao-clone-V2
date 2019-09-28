@@ -3,9 +3,13 @@
   justify-content: space-between;
   margin-bottom: 30px;
   opacity: 0.7;
-  position: fixed;
-  width: 96%;
+  /* position: fixed;
+  width: 100%;
+  top: 0; */
+  /* right: 10px;
+  left: 10px; */
 }
+
 .status-bar .status-bar .status-bar i {
   font-size: 14px;
 }
